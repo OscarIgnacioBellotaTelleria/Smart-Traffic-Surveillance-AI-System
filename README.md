@@ -1,2 +1,2 @@
 # Smart-Traffic-Surveillance-AI-System
-AI-powered traffic monitoring and surveillance analytics system for vehicle tracking, intrusion detection and real-time traffic analysis.
+UrbanVision AI is an intelligent computer vision platform focused on traffic monitoring, vehicle tracking and surveillance analytics using advanced deep learning systems and real-time video processing.
